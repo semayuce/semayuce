@@ -8,4 +8,5 @@
 - Centre for the Protection of National Infrastructure - Catch the Phish - Quiz Example - https://www.cpni.gov.uk/system/files/documents/29/97/quiz.pdf
 - Fogg Behavior Model - https://behaviormodel.org
 - O'Reilly - Designing Culture - https://www.oreilly.com/content/designing-culture/
-- 
+- SANS Institute - Security Awareness Maturity Model - https://www.sans.org/security-resources/posters/security-awareness-roadmap-managing-human-risk/385/download
+- SANS Institute - Security Awareness Resources - https://www.sans.org/security-awareness-training/
