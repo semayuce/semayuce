@@ -5,4 +5,7 @@
 - Individual Differences in Cyber Security Behaviors: An Examination of Who Is Sharing Passwords - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291202/
 - Global Cyber Security Capacity Centre: Draft Working Paper Cyber Security Awareness Campaigns - Why do they fail to change behaviour? - https://discovery.ucl.ac.uk/id/eprint/1468954/1/Awareness%20CampaignsDraftWorkingPaper.pdf
 - Centre for the Protection of National Infrastructure - Embedding Security Behaviour Change - https://www.cpni.gov.uk/embedding-security-behaviour-change
+- Centre for the Protection of National Infrastructure - Catch the Phish - Quiz Example - https://www.cpni.gov.uk/system/files/documents/29/97/quiz.pdf
+- Fogg Behavior Model - https://behaviormodel.org
+- O'Reilly - Designing Culture - https://www.oreilly.com/content/designing-culture/
 - 
