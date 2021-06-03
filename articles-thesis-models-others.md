@@ -1,3 +1,7 @@
+- SANS Institute - Security Awareness Maturity Model - https://www.sans.org/security-resources/posters/security-awareness-roadmap-managing-human-risk/385/download
+- SANS Institute - Security Awareness Resources - https://www.sans.org/security-awareness-training/
+- Fogg Behavior Model - https://behaviormodel.org
+- O'Reilly - Designing Culture - https://www.oreilly.com/content/designing-culture/
 - Can Security Awareness Training Change Behavior and Reduce Risk? - https://www.govtech.com/security/can-security-awareness-training-change-behavior-and-reduce-risk.html
 - People power: making your people an essential part of your cyber security strategy - https://www.paconsulting.com/insights/why-a-human-side-is-essential-to-effective-cyber-security/
 - How can you improve cyber security awareness in your organisation? - https://www.paconsulting.com/insights/how-can-you-improve-cyber-security-awareness-in-your-organisation/
@@ -6,7 +10,5 @@
 - Global Cyber Security Capacity Centre: Draft Working Paper Cyber Security Awareness Campaigns - Why do they fail to change behaviour? - https://discovery.ucl.ac.uk/id/eprint/1468954/1/Awareness%20CampaignsDraftWorkingPaper.pdf
 - Centre for the Protection of National Infrastructure - Embedding Security Behaviour Change - https://www.cpni.gov.uk/embedding-security-behaviour-change
 - Centre for the Protection of National Infrastructure - Catch the Phish - Quiz Example - https://www.cpni.gov.uk/system/files/documents/29/97/quiz.pdf
-- Fogg Behavior Model - https://behaviormodel.org
-- O'Reilly - Designing Culture - https://www.oreilly.com/content/designing-culture/
-- SANS Institute - Security Awareness Maturity Model - https://www.sans.org/security-resources/posters/security-awareness-roadmap-managing-human-risk/385/download
-- SANS Institute - Security Awareness Resources - https://www.sans.org/security-awareness-training/
+- Information Security Awareness Campaign Materials - British Columbia - https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness
+- 
