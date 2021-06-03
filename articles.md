@@ -1,1 +1,8 @@
-Can Security Awareness Training Change Behavior and Reduce Risk? - https://www.govtech.com/security/can-security-awareness-training-change-behavior-and-reduce-risk.html
+- Can Security Awareness Training Change Behavior and Reduce Risk? - https://www.govtech.com/security/can-security-awareness-training-change-behavior-and-reduce-risk.html
+- People power: making your people an essential part of your cyber security strategy - https://www.paconsulting.com/insights/why-a-human-side-is-essential-to-effective-cyber-security/
+- How can you improve cyber security awareness in your organisation? - https://www.paconsulting.com/insights/how-can-you-improve-cyber-security-awareness-in-your-organisation/
+- The Human Side of Cybersecurity - https://www.infosecurity-magazine.com/blogs/the-human-side-of-cybersecurity/
+- Individual Differences in Cyber Security Behaviors: An Examination of Who Is Sharing Passwords - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291202/
+- Global Cyber Security Capacity Centre: Draft Working Paper Cyber Security Awareness Campaigns - Why do they fail to change behaviour? - https://discovery.ucl.ac.uk/id/eprint/1468954/1/Awareness%20CampaignsDraftWorkingPaper.pdf
+- Centre for the Protection of National Infrastructure - Embedding Security Behaviour Change - https://www.cpni.gov.uk/embedding-security-behaviour-change
+- 
