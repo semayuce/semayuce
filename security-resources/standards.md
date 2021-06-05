@@ -1,3 +1,4 @@
+- NIST Computer Security Publications - https://csrc.nist.gov/publications/sp
 - BS 10012:2009, Specification for a personal information management system	This standards provides a framework for maintaining and improving compliance with data protection legislation and good practice. It has been developed to help businesses to establish and maintain a best practice personal information management system that complies with the Data Protection Act 1998.
 - BS ISO/IEC 18043:2006, Selection, deployment and operation of intrusion detection systems	This standard provides guidelines to assist organizations in selecting, deploying and operating intrusion detection systems (IDS). It also provides background information about IDS technologies.
 - BS ISO 22301:2012, Business continuity management systems requirements	This standard specifies the requirements for setting up and managing an effective business continuity management system for any business, regardless of type or size.
