@@ -1,0 +1,2 @@
+- Typical Roles in Cyber - https://www.cybersecuritychallenge.org.uk/resources/careers/typical-roles#
+- Introduction to Cyber Security - https://www.open.edu/openlearn/futurelearn/cyber-security 
