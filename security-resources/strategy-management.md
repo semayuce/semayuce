@@ -1,0 +1,5 @@
+- Gartner - The 15-Minute, 7-Slide Security Presentation for Your Board of Directors - https://www.gartner.com/smarterwithgartner/the-15-minute-7-slide-security-presentation-for-your-board-of-directors/
+- Harvard Law School Forum - A Strategic Cyber-Roadmap for the Board - https://corpgov.law.harvard.edu/2017/01/12/a-strategic-cyber-roadmap-for-the-board/ 
+- McKinsey - Hit or myth? Understanding the true costs and impact of cybersecurity programs - https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/hit-or-myth-understanding-the-true-costs-and-impact-of-cybersecurity-programs 
+- Communicating with the Board about Cybersecurity – Making the Business Case - https://staysafeonline.org/resource/communicating-board-cybersecurity/
+- CIO or C-Suite: To Whom Should the CISO Report? - https://www.darkreading.com/partner-perspectives/f5/cio-or-c-suite-to-whom-should-the-ciso-report/a/d-id/1329807?
